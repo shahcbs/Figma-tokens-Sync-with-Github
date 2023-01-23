@@ -1,12 +1,7 @@
 {
-    "name": "token-project",
-    "version": "1.0.0",
-    "description": "Figma token transformer",
-    "main": "build/index.js",
-    "files": [
-        "build",
-        "properties"
-    ],
+    "name": "live-cms-token-project",
+    "version": "0.0.0",
+    "description": "Repo for Figma token transformer and deliver style sheets",
     "scripts": {
         "build": "node ./build.js",
         "clean": "rm -rf build",
@@ -14,7 +9,11 @@
     },
     "author": "",
     "license": "Apache-2.0",
-    "devDependencies": {
-        "style-dictionary": "3.7.2"
+    "dependencies": {
+        "color2k": "^2.0.0",
+        "expr-eval": "^2.0.2",
+        "fs": "^0.0.1-security",
+        "lodash": "^4.17.21",
+        "style-dictionary": "^3.7.0"
     }
 }
