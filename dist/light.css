@@ -227,7 +227,7 @@
   --blue-200: #90caf9;
   --blue-300: #42a5f5;
   --blue-400: #007dff;
-  --blue-500: #0064FF;
+  --blue-500: #b831b4;
   --blue-600: #1e88e5;
   --blue-700: #0057b2;
   --blue-800: #1565c0;
@@ -271,13 +271,13 @@
   --opacity-90: 0.90;
   --opacity-95: 0.95;
   --opacity-100: 1;
-  --theme-primary-main: #0064FF;
+  --theme-primary-main: #b831b4;
   --theme-primary-dark: #1565c0;
   --theme-primary-light: #42a5f5;
   --theme-primary-contrast: #ffffff;
-  --theme-primary-shades-4p: rgba(#0064FF,0.04);
-  --theme-primary-shades-8p: rgba(#0064FF,0.08);
-  --theme-primary-shades-12p: rgba(#0064FF,0.12);
-  --theme-primary-shades-30p: rgba(#0064FF,0.30);
-  --theme-primary-shades-50p: rgba(#0064FF,0.50);
+  --theme-primary-shades-4p: rgba(#b831b4,0.04);
+  --theme-primary-shades-8p: rgba(#b831b4,0.08);
+  --theme-primary-shades-12p: rgba(#b831b4,0.12);
+  --theme-primary-shades-30p: rgba(#b831b4,0.30);
+  --theme-primary-shades-50p: rgba(#b831b4,0.50);
 }
