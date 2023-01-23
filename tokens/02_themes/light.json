@@ -1,0 +1,53 @@
+{
+  "Theme": {
+    "Primary": {
+      "Main": {
+        "value": "{Blue.500}",
+        "type": "color",
+        "description": "Reflects the Primary/Main variable from the theme object"
+      },
+      "Dark": {
+        "value": "{Blue.800}",
+        "type": "color",
+        "description": "Used for hover states. Reflects the primary.dark variable from the theme object"
+      },
+      "Light": {
+        "value": "{Blue.300}",
+        "type": "color",
+        "description": "Reflects the primary.light variable from the theme object"
+      },
+      "Contrast": {
+        "value": "{Common.White}",
+        "type": "color",
+        "description": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
+      },
+      "Shades": {
+        "4p": {
+          "value": "rgba({Blue.500},{opacity.4})",
+          "type": "color",
+          "description": "Used for hover states. The token represents 4% of the Primary/Main token"
+        },
+        "8p": {
+          "value": "rgba({Blue.500},{opacity.8})",
+          "type": "color",
+          "description": "Used for selected states. The token represents 8% of the Primary/Main token"
+        },
+        "12p": {
+          "value": "rgba({Blue.500},{opacity.12})",
+          "type": "color",
+          "description": "Used for focus visible states. The token represents 12% of the Primary/Main token"
+        },
+        "30p": {
+          "value": "rgba({Blue.500},{opacity.30})",
+          "type": "color",
+          "description": "Used for focus visible states. The token represents 30% of the Primary/Main token"
+        },
+        "50p": {
+          "value": "rgba({Blue.500},{opacity.50})",
+          "type": "color",
+          "description": "Used for enabled state. The token represents 50% of the Primary/Main token"
+        }
+      }
+    }
+  }
+}

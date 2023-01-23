@@ -1,0 +1,46 @@
+{
+  "Theme": {
+    "Primary": {
+      "Main": {
+        "value": "{Blue.200}",
+        "type": "color"
+      },
+      "Dark": {
+        "value": "{Blue.300}",
+        "type": "color"
+      },
+      "Light": {
+        "value": "{Blue.50}",
+        "type": "color"
+      },
+      "Contrast": {
+        "value": "rgba({Common.Black},{opacity.85})",
+        "type": "color"
+      },
+      "Shades": {
+        "4p": {
+          "value": "rgba({Blue.200},{opacity.4})",
+          "type": "color",
+          "description": "Used for hover states. The token represents 4% of the Primary/Main token"
+        },
+        "8p": {
+          "value": "rgba({Blue.200},{opacity.8})",
+          "type": "color",
+          "description": "Used for selected states. The token represents 16% of the Primary/Main token"
+        },
+        "12p": {
+          "value": "rgba({Blue.200},{opacity.12})",
+          "type": "color"
+        },
+        "30p": {
+          "value": "rgba({Blue.200},{opacity.30})",
+          "type": "color"
+        },
+        "50p": {
+          "value": "rgba({Blue.200},{opacity.50})",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

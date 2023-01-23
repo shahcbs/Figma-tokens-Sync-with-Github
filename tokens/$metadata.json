@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "01_base/color",
+    "01_base/opacity",
+    "01_base/typography",
+    "01_base/spacing",
+    "01_base/sizing",
+    "01_base/border",
+    "01_base/shadow",
+    "02_themes/light",
+    "02_themes/dark"
+  ]
+}
