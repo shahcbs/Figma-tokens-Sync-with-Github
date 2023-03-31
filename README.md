@@ -7,11 +7,11 @@ This enables syncing design tokens from Figma to GitHub, so you can easily use t
 The Figma plugin allows you to export your design tokens as JSON files and push them to your GitHub repository. To use the plugin, follow these steps:
 
 1. Install the [Figma Tokens Sync plugin](https://www.figma.com/community/plugin/966843824256207404/Figma-Tokens-Sync) from the Figma Community.
-2. Open Figma file and navigate to the page containing your design tokens.
+2. Open Figma file and navigate to the page containing tokens/styles.
 3. Open the Figma Tokens Sync plugin and authenticate with your GitHub account.
 4. Select the GitHub repository you want to sync tokens with.
 5. Choose a directory within the repository to store tokens.
-6. Push JSON files from plugin to GitHub.
+6. Push JSON files from Figma to GitHub.
 
 ## GitHub Action
 
