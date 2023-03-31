@@ -15,4 +15,4 @@ The Figma plugin allows you to export your design tokens as JSON files and push 
 
 ## GitHub Action
 
-The GitHub Action automatically pulls the latest design tokens from your GitHub repository and generates CSS variables that can be used in a web projects. By pushing new design tokens to GitHub repository, the GitHub Action will automatically generate CSS variables that can be use in your web projects.
+With proper configuration by pushing new design tokens to GitHub repository, the GitHub Action will automatically generate CSS variables that can be use in your web projects.
